@@ -1,5 +1,5 @@
-//const backend = 'http://127.0.0.1:5000';
-const backend = 'https://others-resistant-love-vehicles.trycloudflare.com';
+// const backend = 'http://127.0.0.1:5000';
+const backend = 'https://elearnbd.herokuapp.com';
 
 exports.backend = backend;
 exports.apiRoot = `${backend}/api/v1`;
