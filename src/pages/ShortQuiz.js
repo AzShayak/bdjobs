@@ -124,7 +124,7 @@ export default function ShortQuiz() {
 
 					response.data.data.forEach((item) => {
 						if (item.type === 'quiz') {
-							if (toppers.length < 3) toppers.push(item);
+							if (toppers.length < 10) toppers.push(item);
 
 							if (user.userName === item.userName && user.fullName === item.fullName)
 								setScore(item.totalScore);
