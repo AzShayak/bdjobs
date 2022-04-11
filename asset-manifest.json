@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bdjobs/static/css/main.e5ec2b37.chunk.css",
-    "main.js": "/bdjobs/static/js/main.5e05f71c.chunk.js",
-    "main.js.map": "/bdjobs/static/js/main.5e05f71c.chunk.js.map",
+    "main.js": "/bdjobs/static/js/main.d0ad522d.chunk.js",
+    "main.js.map": "/bdjobs/static/js/main.d0ad522d.chunk.js.map",
     "runtime-main.js": "/bdjobs/static/js/runtime-main.9f4936ce.js",
     "runtime-main.js.map": "/bdjobs/static/js/runtime-main.9f4936ce.js.map",
     "static/js/2.7567c78b.chunk.js": "/bdjobs/static/js/2.7567c78b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f4936ce.js",
     "static/js/2.7567c78b.chunk.js",
     "static/css/main.e5ec2b37.chunk.css",
-    "static/js/main.5e05f71c.chunk.js"
+    "static/js/main.d0ad522d.chunk.js"
   ]
 }
