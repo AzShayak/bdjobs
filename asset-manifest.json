@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bdjobs/static/css/main.e5ec2b37.chunk.css",
-    "main.js": "/bdjobs/static/js/main.b7992f32.chunk.js",
-    "main.js.map": "/bdjobs/static/js/main.b7992f32.chunk.js.map",
+    "main.js": "/bdjobs/static/js/main.8b7ea852.chunk.js",
+    "main.js.map": "/bdjobs/static/js/main.8b7ea852.chunk.js.map",
     "runtime-main.js": "/bdjobs/static/js/runtime-main.9f4936ce.js",
     "runtime-main.js.map": "/bdjobs/static/js/runtime-main.9f4936ce.js.map",
-    "static/js/2.74f002f5.chunk.js": "/bdjobs/static/js/2.74f002f5.chunk.js",
-    "static/js/2.74f002f5.chunk.js.map": "/bdjobs/static/js/2.74f002f5.chunk.js.map",
+    "static/js/2.a4ad27d2.chunk.js": "/bdjobs/static/js/2.a4ad27d2.chunk.js",
+    "static/js/2.a4ad27d2.chunk.js.map": "/bdjobs/static/js/2.a4ad27d2.chunk.js.map",
     "static/js/3.d703e792.chunk.js": "/bdjobs/static/js/3.d703e792.chunk.js",
     "static/js/3.d703e792.chunk.js.map": "/bdjobs/static/js/3.d703e792.chunk.js.map",
     "index.html": "/bdjobs/index.html",
     "static/css/main.e5ec2b37.chunk.css.map": "/bdjobs/static/css/main.e5ec2b37.chunk.css.map",
-    "static/js/2.74f002f5.chunk.js.LICENSE.txt": "/bdjobs/static/js/2.74f002f5.chunk.js.LICENSE.txt"
+    "static/js/2.a4ad27d2.chunk.js.LICENSE.txt": "/bdjobs/static/js/2.a4ad27d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f4936ce.js",
-    "static/js/2.74f002f5.chunk.js",
+    "static/js/2.a4ad27d2.chunk.js",
     "static/css/main.e5ec2b37.chunk.css",
-    "static/js/main.b7992f32.chunk.js"
+    "static/js/main.8b7ea852.chunk.js"
   ]
 }
